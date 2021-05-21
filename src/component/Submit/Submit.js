@@ -49,7 +49,7 @@ const submit = (props) => {
           disabled={props.disable}
          
         >
-          button
+          Submit
         </button>
       </div>
     </Aux>
