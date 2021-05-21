@@ -1,0 +1,43 @@
+.Details {
+  width: 60%;
+  background-color: white;
+  margin: 1cm auto;
+  position: relative;
+}
+
+.Details p {
+  width: 100%;
+}
+
+.Details textarea {
+  width: 100%;
+}
+
+.Details h5 {
+  width: 100%;
+  text-transform: capitalize;
+}
+
+.Details h4 {
+  width: 100%;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.Details small{
+  font-weight: bold;
+  color: black;
+}
+
+.Details button {
+  background-color: rgb(218, 29, 29);
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.Details img {
+  width: 80px;
+  height: 100px;
+  margin: 1cm;
+}

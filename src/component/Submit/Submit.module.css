@@ -1,0 +1,55 @@
+.Modal {
+  position: relative;
+  background-color: hsl(197, 78%, 45%);
+  width: 50%;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 1px black;
+  padding: 25px;
+  border-radius: 1cm;
+  box-sizing: border-box;
+  margin: 0.8cm 4cm;
+  width: 60;
+}
+
+.Modal h4 {
+  text-align: center;
+  margin-bottom: 0.5cm;
+  text-shadow: 1px teal;
+}
+
+.Modal p{
+  margin: 0;
+  color:mediumvioletred;
+  font-size: small;
+  font-weight: bold;
+}
+
+.Modal input {
+  border-radius: 0.5cm;
+  width: 100%;
+  margin-bottom: 0.8cm;
+}
+
+.Modal label {
+  width: 100%;
+  font-weight: bold;
+}
+
+.Modal textarea {
+  border-radius: 0.5cm;
+  border-color: black;
+  width: 100%;
+  margin-bottom: 1cm;
+}
+.Modal button {
+  background-color: grey;
+  width: 100%;
+  border-radius: 0.5cm;
+}
+
+.Modal button.active {
+  background-color: rgb(16, 16, 107);
+  width: 100%;
+  color: white;
+  border-radius: 0.5cm;
+}

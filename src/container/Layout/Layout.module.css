@@ -1,0 +1,13 @@
+.LayoutRow {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+.LayoutCol1 {
+   background-image: linear-gradient(to bottom right, rgb(208, 220, 221), rgb(0, 217, 255));
+}
+
+.LayoutCol2 {
+    background-color: darkcyan;
+}
