@@ -41,6 +41,7 @@
 }
 
 .Modal textarea {
+  padding-left: 10px;
   border-radius: 0.5cm;
   border-color: black;
   width: 100%;
