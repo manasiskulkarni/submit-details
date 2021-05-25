@@ -46,6 +46,11 @@
   width: 100%;
   margin-bottom: 1cm;
 }
+
+.Modal textarea:focus{
+  outline: none;
+}
+
 .Modal button {
   background-color: grey;
   width: 100%;
