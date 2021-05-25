@@ -11,6 +11,7 @@ const details = (props) => {
             <div className="col-md-8">
               <div className="card-body">
                 <h4 className="card-title">Details Header</h4>
+                
                 <h5 className="card-title">{list.newInput}</h5>
                 <p className="card-text">
                   <small >Price: <strong>{list.newPrice} /-</strong></small>

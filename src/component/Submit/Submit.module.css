@@ -25,9 +25,14 @@
 }
 
 .Modal input {
+  padding-left: 10px;
   border-radius: 0.5cm;
   width: 100%;
   margin-bottom: 0.8cm;
+}
+
+.Modal input:focus{
+  outline: none;
 }
 
 .Modal label {
